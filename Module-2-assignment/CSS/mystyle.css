@@ -1,0 +1,58 @@
+<style>
+
+h1 {
+	margin-bottom: 15px;
+	border: 2px;
+}
+
+p{
+	text-align: right;
+	margin-right: 15px;
+}
+section {
+	border: 2px solid black;
+	margin-bottom: 15px;
+	float: right;
+}
+
+
+#sec1 {
+	background-color: #38c75a;
+	width: 300px;
+	height: 100px;
+	margin-right: 15px;
+
+}
+#sec2 {
+	background-color: #1ecbe1;
+	width: 300px;
+	height: 100px;
+	margin-right: 15px;
+}
+
+#sec3 {
+	background-color: #282fd7;
+	width: 300px;
+	height: 100px;
+	margin-right: 15px;
+}
+
+@media (min-width: 1200px);{
+#sec1{
+	width: 80%;
+}
+#sec2{
+	width: 900px;
+	height: 900px;
+}
+#sec3 {
+	width: 900px;
+	height: 900px;
+}
+}
+
+
+}
+
+
+</style>
